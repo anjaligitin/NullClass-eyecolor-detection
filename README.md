@@ -47,11 +47,3 @@ Dominant Eye Color:  Green
 |Other |  80.63 |
 
 <p align="left"><img src="sample/result_video.jpg" width="640"\></p>
-
-#### References
-1. [MTCNN face detection implementation for TensorFlow, as a PIP package.](https://github.com/ipazc/mtcnn)
-1. [What color are your eyes exactly?](https://www.edow.com/general-eye-care/eyecolor/)
-2. [HTML color picker](https://www.w3schools.com/colors/colors_picker.asp?colorhex=ffff00)
-3. [What is the HSV color model?](https://www.lifewire.com/what-is-hsv-in-design-1078068)
-4. [RGB to HSV color conversion](https://www.rapidtables.com/convert/color/rgb-to-hsv.html)
-5. [Eye color range in HSV space](https://github.com/jeffreyolchovy/whatismyeyecolor/blob/master/library/src/main/scala/com/whatismyeyecolor/ColorRange.scala)
